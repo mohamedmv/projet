@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\project_S2\project_S2\bin\Debug\netcoreapp3.1\project_S2.exe
+C:\Users\hp\source\repos\project_S2\project_S2\bin\Debug\netcoreapp3.1\project_S2.deps.json
+C:\Users\hp\source\repos\project_S2\project_S2\bin\Debug\netcoreapp3.1\project_S2.runtimeconfig.json
+C:\Users\hp\source\repos\project_S2\project_S2\bin\Debug\netcoreapp3.1\project_S2.runtimeconfig.dev.json
+C:\Users\hp\source\repos\project_S2\project_S2\bin\Debug\netcoreapp3.1\project_S2.dll
+C:\Users\hp\source\repos\project_S2\project_S2\bin\Debug\netcoreapp3.1\project_S2.pdb
+C:\Users\hp\source\repos\project_S2\project_S2\obj\Debug\netcoreapp3.1\project_S2.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\project_S2\project_S2\obj\Debug\netcoreapp3.1\project_S2.Form1.resources
+C:\Users\hp\source\repos\project_S2\project_S2\obj\Debug\netcoreapp3.1\project_S2.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\project_S2\project_S2\obj\Debug\netcoreapp3.1\project_S2.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\project_S2\project_S2\obj\Debug\netcoreapp3.1\project_S2.AssemblyInfo.cs
+C:\Users\hp\source\repos\project_S2\project_S2\obj\Debug\netcoreapp3.1\project_S2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\project_S2\project_S2\obj\Debug\netcoreapp3.1\project_S2.dll
+C:\Users\hp\source\repos\project_S2\project_S2\obj\Debug\netcoreapp3.1\project_S2.pdb
+C:\Users\hp\source\repos\project_S2\project_S2\obj\Debug\netcoreapp3.1\project_S2.genruntimeconfig.cache
